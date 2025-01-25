@@ -1,6 +1,5 @@
 import React from 'react';
 import AdminLayout from '../components/templates/AdminLayout';
-import { ArrowRight } from 'lucide-react';
 import CardItem from '../components/molecules/CardItem';
 
 const Dashboard = ({ onLogout }) => {

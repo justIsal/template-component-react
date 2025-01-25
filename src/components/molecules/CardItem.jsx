@@ -36,12 +36,12 @@ function CardItem() {
           playsInline
         >
           <source
-            src="https://static.clipdrop.co/web/homepage/tools/SD-Turbo.webm#t=0.1"
-            type="video/webm"
+            src="https://player.vimeo.com/external/484170071.sd.mp4?s=d0c8b94a7a618a8ebf8c5a65b4017891a5635f9a&profile_id=165"
+            type="video/mp4"
           />
           <source
-            src="https://static.clipdrop.co/web/homepage/tools/SD-Turbo.webm#t=0.1"
-            type="video/mp4"
+            src="https://player.vimeo.com/external/484170071.sd.mp4?s=d0c8b94a7a618a8ebf8c5a65b4017891a5635f9a&profile_id=165"
+            type="video/webm"
           />
         </video>
       </div>
